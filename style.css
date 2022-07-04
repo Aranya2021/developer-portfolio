@@ -9,7 +9,7 @@ h1{
 .green-color{
     color: rgb(52, 144, 52);
 }
-section{
+.flexible-container{
     display: flex;
     margin-bottom: 100px;
 }
@@ -36,4 +36,5 @@ section{
 .skills-experience{
     background-image: url(images/dream-bg.png) ;
     background-repeat: no-repeat;
+    background-position: right;
 }
